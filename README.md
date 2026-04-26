@@ -18,7 +18,7 @@
       <li><h3>U202315654 - Pillaca Vidal, Luis Angel</h3></li>
       <li><h3>U202417693 - Alexander Auden Aliaga Ocampo</h3></li>
       <li><h3>u202210764 - Daniel Elias Ruiz Huisa</h3></li>
-      <li><h3> -  </h3></li>
+      <li><h3>u20211b686 - Uribe Linares Francisco Javier</h3></li>
   </ul>
   <br>
   <h4>abril del 2026</h4>
